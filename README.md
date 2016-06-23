@@ -15,7 +15,7 @@ Alimentar BD através de Seeder com o comando:
 Startar o servidor no local do projeto
   - php artisan serve
   
-Para acessar o back-end ir no menu entrar e informar os dados:
+Para acessar o back-end ir no menu "entrar" e usar os dados:
 e-mail: admin@admin.com
 senha: admin
 
